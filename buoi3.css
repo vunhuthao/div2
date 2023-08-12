@@ -1,0 +1,44 @@
+.container1 {
+    border: 0px black;
+    height: 0px;
+    display: flex;
+    justify-content: flex-end;
+}
+.container2 {
+    border: 0px black;
+    height: 500px;
+    display: flex;
+   flex-direction: column;
+   justify-content: flex-start;
+}
+.container3 {
+    border: 0px black;
+    height: 0px;
+    display: flex;
+    flex-direction: column;
+}
+.container4 {
+    border: 0px black;
+    height: 0px;
+    display: flex;
+}
+.item{
+    width: 400px;
+    height: 150px;
+    background-color: rgba(255, 0, 0, 0.327);
+}
+.item2{
+    width: 200px;
+    height: 800px;
+    background-color: rgb(55, 55, 102)
+}
+.item3{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(64, 64, 108) 
+}
+.item4{
+    width: 600px;
+    height: 270px;
+    background-color: rgb(177, 189, 38)
+}
